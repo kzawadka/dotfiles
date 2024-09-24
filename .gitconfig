@@ -15,3 +15,5 @@
 	email = kris.zawadka@shopify.com
 [push]
 	default = current
+[submodule]
+	recurse = true
